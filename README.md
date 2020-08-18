@@ -7,10 +7,10 @@
 ## Screenshots
 ![Screenshot_1](https://github.com/eroldmrclk/MemoryGame/blob/master/images/Screenshot_1.png)
 <br>
-**---------------------------------------------------------------------------------------------------------------------------------------------------**
+<br>
 <br>
 ![Screenshot_2](https://github.com/eroldmrclk/MemoryGame/blob/master/images/Screenshot_2.png)
 <br>
-**---------------------------------------------------------------------------------------------------------------------------------------------------**
+<br>
 <br>
 ![Screenshot_3](https://github.com/eroldmrclk/MemoryGame/blob/master/images/Screenshot_3.png)
